@@ -1,0 +1,272 @@
+[
+  {
+    "mes": 1,
+    "dia": 1,
+    "celebracion": "Santa María, Madre de Dios (Theotokos)",
+    "categoria": "Solemnidad Mariana",
+    "rango": "Solemnidad",
+    "color": "Blanco",
+    "notas": "Octava de la Natividad y Maternidad Divina de María.",
+    "prioridad": 4
+  },
+  {
+    "mes": 1,
+    "dia": 3,
+    "celebracion": "Santísimo Nombre de Jesús",
+    "categoria": "Memoria del Señor",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Veneración del Santo Nombre de Nuestro Señor Jesucristo.",
+    "prioridad": 12
+  },
+  {
+    "mes": 2,
+    "dia": 2,
+    "celebracion": "Presentación del Señor en el Templo (La Candelaria)",
+    "categoria": "Fiesta del Señor",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Encuentro del Señor con Simeón y Ana; bendición de las candelas y del Niño Dios.",
+    "prioridad": 5
+  },
+  {
+    "mes": 2,
+    "dia": 11,
+    "celebracion": "Nuestra Señora de Lourdes",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Apariciones a Santa Bernardita; Jornada Mundial del Enfermo.",
+    "prioridad": 12
+  },
+  {
+    "mes": 3,
+    "dia": 25,
+    "celebracion": "La Anunciación del Señor a la Virgen María",
+    "categoria": "Misterio de la Encarnación",
+    "rango": "Solemnidad",
+    "color": "Blanco",
+    "notas": "Misterio mariano y cristológico central; el \"Hágase\" de la Virgen.",
+    "prioridad": 4
+  },
+  {
+    "mes": 4,
+    "dia": 26,
+    "celebracion": "Nuestra Señora del Buen Consejo",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Venerada advocación agustiniana y devoción mariana tradicional.",
+    "prioridad": 12
+  },
+  {
+    "mes": 5,
+    "dia": 13,
+    "celebracion": "Nuestra Señora de Fátima",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Apariciones a los tres pastorcitos en Cova da Iria, Portugal.",
+    "prioridad": 12
+  },
+  {
+    "mes": 5,
+    "dia": 24,
+    "celebracion": "María Auxiliadora de los Cristianos",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Gran devoción popular y patrona de la familia salesiana.",
+    "prioridad": 12
+  },
+  {
+    "mes": 5,
+    "dia": 31,
+    "celebracion": "La Visitación de la Santísima Virgen María",
+    "categoria": "Fiesta Mariana",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Visita de la Virgen María a su prima Santa Isabel y canto del Magníficat.",
+    "prioridad": 7
+  },
+  {
+    "mes": 7,
+    "dia": 16,
+    "celebracion": "Nuestra Señora del Carmen",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Madre y Reina del Carmelo; devoción al Santo Escapulario.",
+    "prioridad": 10
+  },
+  {
+    "mes": 8,
+    "dia": 5,
+    "celebracion": "Dedicación de la Basílica de Santa María la Mayor (Nieves)",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "El templo mariano más antiguo y principal de Occidente en Roma.",
+    "prioridad": 12
+  },
+  {
+    "mes": 8,
+    "dia": 6,
+    "celebracion": "La Transfiguración del Señor",
+    "categoria": "Fiesta del Señor",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Manifestación de la gloria divina de Cristo en el Monte Tabor.",
+    "prioridad": 5
+  },
+  {
+    "mes": 8,
+    "dia": 15,
+    "celebracion": "La Asunción de la Santísima Virgen María",
+    "categoria": "Solemnidad Mariana",
+    "rango": "Solemnidad",
+    "color": "Blanco",
+    "notas": "Dogma mariano: Elevada en cuerpo y alma a la gloria celestial.",
+    "prioridad": 4
+  },
+  {
+    "mes": 8,
+    "dia": 22,
+    "celebracion": "Santa María Virgen, Reina",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Octava de la Asunción y realeza de la Madre del Redentor.",
+    "prioridad": 10
+  },
+  {
+    "mes": 9,
+    "dia": 8,
+    "celebracion": "La Natividad de la Santísima Virgen María",
+    "categoria": "Fiesta Mariana",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Nacimiento de la aurora que precede al Sol de Justicia.",
+    "prioridad": 7
+  },
+  {
+    "mes": 9,
+    "dia": 12,
+    "celebracion": "El Dulce Nombre de la Santísima Virgen María",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Libre",
+    "color": "Blanco",
+    "notas": "Veneración y protección en el santo nombre de la Madre de Dios.",
+    "prioridad": 12
+  },
+  {
+    "mes": 9,
+    "dia": 14,
+    "celebracion": "La Exaltación de la Santa Cruz",
+    "categoria": "Fiesta del Señor",
+    "rango": "Fiesta",
+    "color": "Rojo",
+    "notas": "Dedicación de la Basílica del Santo Sepulcro y triunfo del Árbol de la Cruz.",
+    "prioridad": 5
+  },
+  {
+    "mes": 9,
+    "dia": 15,
+    "celebracion": "Nuestra Señora de los Dolores",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Día posterior a la Santa Cruz; compasión y unión de María a la Pasión.",
+    "prioridad": 10
+  },
+  {
+    "mes": 9,
+    "dia": 29,
+    "celebracion": "Santos Arcángeles Miguel, Gabriel y Rafael",
+    "categoria": "Celebración de los Ángeles",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Príncipes de la milicia celestial y mensajeros de Dios.",
+    "prioridad": 7
+  },
+  {
+    "mes": 10,
+    "dia": 2,
+    "celebracion": "Santos Ángeles Custodios",
+    "categoria": "Celebración de los Ángeles",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Protectores y compañeros celestiales dados por Dios a cada persona.",
+    "prioridad": 10
+  },
+  {
+    "mes": 10,
+    "dia": 7,
+    "celebracion": "Nuestra Señora del Rosario",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Victoria de la oración del Rosario y protección maternal de María.",
+    "prioridad": 10
+  },
+  {
+    "mes": 10,
+    "dia": 12,
+    "celebracion": "Nuestra Señora del Pilar",
+    "categoria": "Memoria Mariana",
+    "rango": "Fiesta / Memoria",
+    "color": "Blanco",
+    "notas": "Primera aparición mariana en la historia a orillas del Ebro (Zaragoza).",
+    "prioridad": 8
+  },
+  {
+    "mes": 11,
+    "dia": 2,
+    "celebracion": "Conmemoración de Todos los Fieles Difuntos",
+    "categoria": "Conmemoración Universal",
+    "rango": "Conmemoración de Precedencia",
+    "color": "Morado / Negro",
+    "notas": "Oración y sufragio de toda la Iglesia por las almas del Purgatorio.",
+    "prioridad": 3
+  },
+  {
+    "mes": 11,
+    "dia": 9,
+    "celebracion": "Dedicación de la Basílica de Letrán",
+    "categoria": "Fiesta del Señor / Iglesia Madre",
+    "rango": "Fiesta",
+    "color": "Blanco",
+    "notas": "Catedral del Papa en Roma, Madre y Cabeza de todas las iglesias del mundo.",
+    "prioridad": 5
+  },
+  {
+    "mes": 11,
+    "dia": 21,
+    "celebracion": "La Presentación de la Santísima Virgen María",
+    "categoria": "Memoria Mariana",
+    "rango": "Memoria Obligatoria",
+    "color": "Blanco",
+    "notas": "Ofrecimiento total y consagración de María a Dios desde su infancia.",
+    "prioridad": 10
+  },
+  {
+    "mes": 12,
+    "dia": 8,
+    "celebracion": "La Inmaculada Concepción de la Santísima Virgen María",
+    "categoria": "Solemnidad Mariana",
+    "rango": "Solemnidad",
+    "color": "Blanco",
+    "notas": "Dogma: Preservada inmune de toda mancha de pecado original.",
+    "prioridad": 4
+  },
+  {
+    "mes": 12,
+    "dia": 12,
+    "celebracion": "Nuestra Señora de Guadalupe",
+    "categoria": "Patrona de América y Filipinas",
+    "rango": "Solemnidad",
+    "color": "Blanco",
+    "notas": "Apariciones a San Juan Diego en el Tepeyac (Solemnidad en México y América). Por indulto apostólico concedido a la CEM, cuando el 12 de diciembre coincide con un Domingo de Adviento, se permite celebrar la Solemnidad de Nuestra Señora de Guadalupe ese mismo domingo sin trasladarla al lunes (tener presente que esta disposición/interpretación de la CEM contempla hasta el 12 de diciembre de 2032, que cae en domingo; para años posteriores habrá que revisar las disposiciones vigentes).",
+    "prioridad": 4
+  }
+]

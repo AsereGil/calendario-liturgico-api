@@ -1,0 +1,28 @@
+{
+  "name": "calendario-liturgico-api",
+  "version": "2.5.0",
+  "description": "API REST y motor algorítmico del Calendario Litúrgico Católico, Santoral, Misas Votivas y Piedad Popular",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "tsx src/server-node.ts",
+    "start:node": "tsx src/server-node.ts",
+    "dev:node": "tsx watch src/server-node.ts",
+    "dev:worker": "wrangler dev src/index.ts",
+    "deploy:worker": "wrangler deploy src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx tests/engine.test.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.13.7",
+    "hono": "^4.6.14",
+    "tsx": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2",
+    "wrangler": "^3.99.0"
+  }
+}
